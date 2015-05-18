@@ -1,0 +1,11 @@
+[package]
+name = "NoiseRay"
+version = "0.1.0"
+authors = ["Yuri Kunde Schlesner <yuriks@yuriks.net>"]
+
+[dependencies]
+image = "*"
+itertools = "*"
+nalgebra = "*"
+num = "*"
+rand = "*"
